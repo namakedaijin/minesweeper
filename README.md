@@ -1,2 +1,2 @@
 # minesweeper
-Simple-Minesweeper(Windows Form)
+minesweeper-WindowsForm
